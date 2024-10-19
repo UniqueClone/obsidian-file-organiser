@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "file-organiser",
+	"name": "File Organiser",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Organise your files into folders if part of their name matches the folder name.",
+	"author": "Ryan Lynch",
+	"authorUrl": "https://www.github.com/UniqueClone",
+	"fundingUrl": "https://buymeacoffee.com/ryanlynch",
 	"isDesktopOnly": false
 }
