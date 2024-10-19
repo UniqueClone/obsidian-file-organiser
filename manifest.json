@@ -1,7 +1,7 @@
 {
 	"id": "file-organiser",
 	"name": "File Organiser",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Organise your files into folders if part of their name matches the folder name.",
 	"author": "Ryan Lynch",

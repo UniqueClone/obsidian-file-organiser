@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-file-organiser",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Organise your Obsidian files into folders if part of their name matches the folder name.",
 	"main": "main.js",
 	"scripts": {
